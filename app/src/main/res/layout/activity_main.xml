@@ -23,7 +23,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="About Me"
+        android:text="About Me1"
         android:id="@+id/button"
         android:layout_alignParentEnd="false"
         android:layout_alignParentStart="false"
