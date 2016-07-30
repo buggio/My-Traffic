@@ -27,7 +27,9 @@
         android:id="@+id/button"
         android:layout_alignParentEnd="false"
         android:layout_alignParentStart="false"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:onClick="clickAboutMe"
+        android:nestedScrollingEnabled="true" />
 
     <ListView
         android:layout_width="wrap_content"
